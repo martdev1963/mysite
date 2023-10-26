@@ -7,7 +7,6 @@ export FLASK_APP=flask_app.py
 Students using the DOS prompt; must type
 set FLASK_APP=flask_app.py
 Running on http://127.0.0.1:5000
-
 --------------------------------------------------------------------------------
 '''
 
